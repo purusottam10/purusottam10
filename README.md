@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm Purusottam Pradhan</h1>
 <h3 align="center">A passionate robotics learner</h3>
-<img align="right" alt="robot" width="400" src="https://cdn.dribbble.com/users/936341/screenshots/5414698/robot-rig.gif">
+<img align="right" alt="robot" width="400" src="https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purusottam10&label=Profile%20views&color=0e75b6&style=flat" alt="purusottam10" /> </p>
 
